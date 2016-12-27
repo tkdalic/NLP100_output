@@ -6,6 +6,7 @@ Wikipedia,	Wikipedia,
 the	the
 free	free
 encyclopedia	encyclopedia
+	
 Natural	Natur
 language	languag
 processing	process
@@ -68,7 +69,9 @@ involve	involv
 natural	natur
 language	languag
 generation.	generation.
+	
 History	Histori
+	
 The	The
 history	histori
 of	of
@@ -112,6 +115,7 @@ a	a
 criterion	criterion
 of	of
 intelligence.	intelligence.
+	
 The	The
 Georgetown	Georgetown
 experiment	experi
@@ -199,6 +203,7 @@ translation	translat
 systems	system
 were	were
 developed.	developed.
+	
 Some	Some
 notably	notabl
 successful	success
@@ -284,6 +289,7 @@ say	say
 your	your
 head	head
 hurts?".	hurts?".
+	
 During	Dure
 the	the
 1970s	1970
@@ -338,6 +344,7 @@ PARRY,	PARRY,
 Racter,	Racter,
 and	and
 Jabberwacky.	Jabberwacky.
+	
 Up	Up
 to	to
 the	the
@@ -538,6 +545,7 @@ system	system
 comprising	compris
 multiple	multipl
 subtasks.	subtasks.
+	
 Many	Mani
 of	of
 the	the
@@ -667,6 +675,7 @@ limited	limit
 amounts	amount
 of	of
 data.	data.
+	
 Recent	Recent
 research	research
 has	ha
@@ -758,10 +767,12 @@ for	for
 the	the
 inferior	inferior
 results.	results.
+	
 NLP	NLP
 using	use
 machine	machin
 learning	learn
+	
 Modern	Modern
 NLP	NLP
 algorithms	algorithm
@@ -865,6 +876,7 @@ values	valu
 to	to
 be	be
 learned.	learned.
+	
 Many	Mani
 different	differ
 classes	class
@@ -981,6 +993,7 @@ of	of
 a	a
 larger	larger
 system.	system.
+	
 Systems	System
 based	base
 on	on
@@ -992,6 +1005,7 @@ advantages	advantag
 over	over
 hand-produced	hand-produc
 rules:	rules:
+	
 The	The
 learning	learn
 procedures	procedur
@@ -1257,3 +1271,4 @@ field	field
 of	of
 Computational	Comput
 Psycholinguistics.	Psycholinguistics.
+	
