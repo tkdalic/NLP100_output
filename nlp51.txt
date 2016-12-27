@@ -8,6 +8,8 @@ the
 free
 encyclopedia
 
+
+
 Natural
 language
 processing
@@ -73,7 +75,11 @@ natural
 language
 generation.
 
+
+
 History
+
+
 
 The
 history
@@ -119,6 +125,8 @@ a
 criterion
 of
 intelligence.
+
+
 
 The
 Georgetown
@@ -211,6 +219,8 @@ systems
 were
 developed.
 
+
+
 Some
 notably
 successful
@@ -299,6 +309,8 @@ your
 head
 hurts?".
 
+
+
 During
 the
 1970s
@@ -355,6 +367,8 @@ PARRY,
 Racter,
 and
 Jabberwacky.
+
+
 
 Up
 to
@@ -563,6 +577,8 @@ comprising
 multiple
 subtasks.
 
+
+
 Many
 of
 the
@@ -696,6 +712,8 @@ amounts
 of
 data.
 
+
+
 Recent
 research
 has
@@ -791,10 +809,14 @@ the
 inferior
 results.
 
+
+
 NLP
 using
 machine
 learning
+
+
 
 Modern
 NLP
@@ -903,6 +925,8 @@ values
 to
 be
 learned.
+
+
 
 Many
 different
@@ -1025,6 +1049,8 @@ a
 larger
 system.
 
+
+
 Systems
 based
 on
@@ -1036,6 +1062,8 @@ advantages
 over
 hand-produced
 rules:
+
+
 
 The
 learning
@@ -1310,4 +1338,6 @@ field
 of
 Computational
 Psycholinguistics.
+
+
 
