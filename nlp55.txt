@@ -1,12 +1,14 @@
 Alan
 Turing
-ELIZA
 Joseph
 Weizenbaum
-ELIZA
+MARGIE
+Schank
 Wilensky
 Meehan
 Lehnert
 Carbonell
 Lehnert
+Racter
+Jabberwacky
 Moore
