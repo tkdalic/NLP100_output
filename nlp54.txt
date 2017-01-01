@@ -426,7 +426,7 @@ Jabberwacky	Jabberwacky	NNP
 Up	up	IN
 to	to	TO
 the	the	DT
-1980s	1980s	CD
+1980s	1980	NNS
 ,	,	,
 most	most	JJS
 NLP	nlp	NNS
@@ -547,8 +547,8 @@ However	however	RB
 Part	part	NN
 of	of	IN
 speech	speech	NN
-tagging	tagging	NN
-introduced	introduce	VBD
+tagging	tag	VBG
+introduced	introduce	VBN
 the	the	DT
 use	use	NN
 of	of	IN
@@ -690,7 +690,7 @@ of	of	IN
 existing	exist	VBG
 multilingual	multilingual	JJ
 textual	textual	JJ
-corpora	corpus	NN
+corpora	corpora	NN
 that	that	WDT
 had	have	VBD
 been	be	VBN
@@ -735,7 +735,7 @@ other	other	JJ
 systems	system	NNS
 depended	depend	VBD
 on	on	IN
-corpora	corpus	NN
+corpora	corpora	NN
 specifically	specifically	RB
 developed	develop	VBD
 for	for	IN
@@ -920,7 +920,7 @@ different	different	JJ
 from	from	IN
 that	that	DT
 of	of	IN
-most	most	JJS
+most	most	RBS
 prior	prior	JJ
 attempts	attempt	NNS
 at	at	IN
@@ -976,7 +976,7 @@ the	the	DT
 analysis	analysis	NN
 of	of	IN
 large	large	JJ
-corpora	corpus	NN
+corpora	corpora	NN
 of	of	IN
 typical	typical	JJ
 real-world	real-world	JJ
@@ -988,7 +988,7 @@ corpus	corpus	NN
 plural	plural	NN
 ,	,	,
 ``	``	``
-corpora	corpus	NN
+corpora	corpora	NN
 ''	''	''
 -RRB-	-rrb-	-RRB-
 is	be	VBZ
@@ -1158,7 +1158,7 @@ hand-produced	hand-produced	JJ
 rules	rule	NNS
 :	:	:
 The	the	DT
-learning	learning	NN
+learning	learn	VBG
 procedures	procedure	NNS
 used	use	VBN
 during	during	IN
@@ -1364,7 +1364,7 @@ in	in	IN
 the	the	DT
 number	number	NN
 of	of	IN
-man-hours	man-hour	NN
+man-hours	man-hours	NN
 worked	work	VBD
 ,	,	,
 generally	generally	RB
