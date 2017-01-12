@@ -1,137 +1,50 @@
-{'rep_text': '1966', 'start': 15, 'end': 16, 'sentence': 8}
-{'rep_text': '1966', 'start': 45, 'end': 46, 'sentence': 10}
-{'rep_text': '1978', 'start': 14, 'end': 15, 'sentence': 15}
-{'rep_text': '1978', 'start': 21, 'end': 22, 'sentence': 15}
-{'rep_text': 'the input data', 'start': 43, 'end': 46, 'sentence': 21}
-{'rep_text': 'the input data', 'start': 17, 'end': 20, 'sentence': 38}
-{'rep_text': 'the first statistical machine translation systems', 'start': 15, 'end': 21, 'sentence': 9}
-{'rep_text': 'the first statistical machine translation systems', 'start': 1, 'end': 3, 'sentence': 25}
-{'rep_text': 'the first statistical machine translation systems', 'start': 35, 'end': 37, 'sentence': 26}
-{'rep_text': 'the first statistical machine translation systems', 'start': 20, 'end': 22, 'sentence': 47}
-{'rep_text': 'machine learning algorithms', 'start': 5, 'end': 8, 'sentence': 37}
-{'rep_text': 'machine learning algorithms', 'start': 1, 'end': 3, 'sentence': 38}
-{'rep_text': 'machine learning algorithms', 'start': 3, 'end': 6, 'sentence': 39}
-{'rep_text': 'ELIZA', 'start': 11, 'end': 12, 'sentence': 11}
-{'rep_text': 'ELIZA', 'start': 13, 'end': 14, 'sentence': 12}
-{'rep_text': 'The machine-learning paradigm', 'start': 1, 'end': 4, 'sentence': 35}
-{'rep_text': 'The machine-learning paradigm', 'start': 1, 'end': 6, 'sentence': 33}
-{'rep_text': 'NLP', 'start': 14, 'end': 15, 'sentence': 1}
-{'rep_text': 'NLP', 'start': 4, 'end': 5, 'sentence': 2}
-{'rep_text': 'NLP', 'start': 4, 'end': 5, 'sentence': 3}
-{'rep_text': 'NLP', 'start': 5, 'end': 6, 'sentence': 4}
-{'rep_text': 'NLP', 'start': 7, 'end': 8, 'sentence': 17}
-{'rep_text': 'NLP', 'start': 14, 'end': 15, 'sentence': 18}
-{'rep_text': 'NLP', 'start': 12, 'end': 13, 'sentence': 37}
-{'rep_text': 'NLP', 'start': 4, 'end': 5, 'sentence': 49}
-{'rep_text': 'NLP', 'start': 19, 'end': 20, 'sentence': 49}
-{'rep_text': 'Such models', 'start': 1, 'end': 3, 'sentence': 41}
-{'rep_text': 'Such models', 'start': 7, 'end': 8, 'sentence': 41}
-{'rep_text': 'you', 'start': 34, 'end': 35, 'sentence': 12}
-{'rep_text': 'you', 'start': 36, 'end': 37, 'sentence': 12}
-{'rep_text': 'My head', 'start': 26, 'end': 28, 'sentence': 12}
-{'rep_text': 'My head', 'start': 36, 'end': 38, 'sentence': 12}
-{'rep_text': 'hand-written rules --', 'start': 8, 'end': 11, 'sentence': 44}
-{'rep_text': 'hand-written rules --', 'start': 6, 'end': 8, 'sentence': 45}
-{'rep_text': 'machine translation', 'start': 11, 'end': 13, 'sentence': 7}
-{'rep_text': 'machine translation', 'start': 33, 'end': 35, 'sentence': 8}
-{'rep_text': 'machine translation', 'start': 5, 'end': 7, 'sentence': 9}
-0
 Natural language processing From Wikipedia , the free encyclopedia Natural language processing -LRB- machine translation ( NLP ) -RRB- is a field of computer science , artificial intelligence , and linguistics concerned with the interactions between computers and human -LRB- natural -RRB- languages . 
-1
 As such , machine translation ( NLP ) is related to the area of humani-computer interaction . 
-2
 Many challenges in machine translation ( NLP ) involve natural language understanding , that is , enabling computers to derive meaning from human or natural language input , and others involve natural language generation . 
-3
 History The history of machine translation ( NLP ) generally starts in the 1950s , although work can be found from earlier periods . 
-4
 In 1950 , Alan Turing published an article titled `` Computing Machinery and Intelligence '' which proposed what is now called the Turing test as a criterion of intelligence . 
-5
 The Georgetown experiment in 1954 involved fully automatic translation of more than sixty Russian sentences into English . 
-6
 The authors claimed that within three or five years , machine translation ( machine translation ) would be a solved problem . 
-7
 However , real progress was much slower , and after the ALPAC report in machine translation ( 1966 ) , which found that ten year long research had failed to fulfill the expectations , funding for machine translation ( machine translation ) was dramatically reduced . 
-8
 Little further research in machine translation ( machine translation ) was conducted until the late 1980s , when hand-written rules -- ( the first statistical machine translation systems ) were developed . 
-9
 Some notably successful NLP systems developed in the 1960s were SHRDLU , a natural language system working in restricted `` blocks worlds '' with restricted vocabularies , and ELIZA , a simulation of a Rogerian psychotherapist , written by Joseph Weizenbaum between 1964 to hand-written rules -- ( 1966 ) . 
-10
 Using almost no information about human thought or emotion , hand-written rules -- ( ELIZA ) sometimes provided a startlingly human-like interaction . 
-11
 When the `` patient '' exceeded the very small knowledge base , hand-written rules -- ( ELIZA ) might provide a generic response , for example , responding to `` hand-written rules -- ( My head ) hurts '' with `` Why do hand-written rules -- ( you ) say hand-written rules -- ( hand-written rules -- ( your ) head ) hurts ? '' 
-12
 . 
-13
 During the 1970s many programmers began to write ` conceptual ontologies ' , which structured real-world information into computer-understandable data . 
-14
 Examples are MARGIE -LRB- Schank , 1975 -RRB- , SAM -LRB- Cullingford , hand-written rules -- ( 1978 ) -RRB- , PAM -LRB- Wilensky , hand-written rules -- ( 1978 ) -RRB- , TaleSpin -LRB- Meehan , 1976 -RRB- , QUALM -LRB- Lehnert , 1977 -RRB- , Politics -LRB- Carbonell , 1979 -RRB- , and Plot Units -LRB- Lehnert 1981 -RRB- . 
-15
 During this time , many chatterbots were written including PARRY , Racter , and Jabberwacky . 
-16
 Up to the 1980s , most hand-written rules -- ( NLP ) systems were based on complex sets of hand-written rules . 
-17
 Starting in the late 1980s , however , there was a revolution in hand-written rules -- ( NLP ) with the introduction of machine learning algorithms for language processing . 
-18
 This was due to both the steady increase in computational power resulting from Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics -LRB- e.g. transformational grammar -RRB- , whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing . 
-19
 Some of the earliest-used machine learning algorithms , such as decision trees , produced systems of hard if-then rules similar to existing hand-written rules . 
-20
 However , Part of speech tagging introduced the use of Hidden Markov Models to NLP , and increasingly , research has focused on statistical models , which make soft , probabilistic decisions based on attaching real-valued weights to the features making up hand-written rules -- ( the input data ) . 
-21
 The cache language models upon which many speech recognition systems now rely are examples of such statistical models . 
-22
 Such models are generally more robust when given unfamiliar input , especially input that contains errors -LRB- as is very common for real-world data -RRB- , and produce more reliable results when integrated into a larger system comprising multiple subtasks . 
-23
 Many of the notable early successes occurred in the field of machine translation , due especially to work at IBM Research , where successively more complicated statistical models were developed . 
-24
 hand-written rules -- ( These systems ) were able to take advantage of existing multilingual textual corpora that had been produced by the Parliament of Canada and the European Union as a result of laws calling for the translation of all governmental proceedings into all official languages of the corresponding systems of government . 
-25
 However , most other systems depended on corpora specifically developed for the tasks implemented by these systems , which was -LRB- and often continues to be -RRB- a major limitation in the success of hand-written rules -- ( these systems ) . 
-26
 As a result , a great deal of research has gone into methods of more effectively learning from limited amounts of data . 
-27
 Recent research has increasingly focused on unsupervised and semi-supervised learning algorithms . 
-28
 Such algorithms are able to learn from data that has not been hand-annotated with the desired answers , or using a combination of annotated and non-annotated data . 
-29
 Generally , this task is much more difficult than supervised learning , and typically produces less accurate results for a given amount of input data . 
-30
 However , there is an enormous amount of non-annotated data available -LRB- including , among other things , the entire content of the World Wide Web -RRB- , which can often make up for the inferior results . 
-31
 NLP using machine learning Modern NLP algorithms are based on machine learning , especially statistical machine learning . 
-32
 hand-written rules -- ( The paradigm of machine learning ) is different from that of most prior attempts at language processing . 
-33
 Prior implementations of language-processing tasks typically involved the direct hand coding of large sets of rules . 
-34
 hand-written rules -- ( The machine-learning paradigm ) calls instead for using general learning algorithms - often , although not always , grounded in statistical inference - to automatically learn such rules through the analysis of large corpora of typical real-world examples . 
-35
 A corpus -LRB- plural , `` corpora '' -RRB- is a set of documents -LRB- or sometimes , individual sentences -RRB- that have been hand-annotated with the correct values to be learned . 
-36
 Many different classes of hand-written rules -- ( machine learning algorithms ) have been applied to hand-written rules -- ( NLP ) tasks . 
-37
 hand-written rules -- ( These algorithms ) take as input a large set of `` features '' that are generated from hand-written rules -- ( the input data ) . 
-38
 Some of hand-written rules -- ( the earliest-used algorithms ) , such as decision trees , produced systems of hard if-then rules similar to the systems of hand-written rules that were then common . 
-39
 Increasingly , however , research has focused on statistical models , which make soft , probabilistic decisions based on attaching real-valued weights to each input feature . 
-40
 hand-written rules -- ( Such models ) have the advantage that hand-written rules -- ( they ) can express the relative certainty of many different possible answers rather than only one , producing more reliable results when such a model is included as a component of a larger system . 
-41
 Systems based on machine-learning algorithms have many advantages over hand-produced rules : The learning procedures used during machine learning automatically focus on the most common cases , whereas when writing rules by hand it is often not obvious at all where the effort should be directed . 
-42
 Automatic learning procedures can make use of statistical inference algorithms to produce models that are robust to unfamiliar input -LRB- e.g. containing words or structures that have not been seen before -RRB- and to erroneous input -LRB- e.g. with misspelled words or words accidentally omitted -RRB- . 
-43
 Generally , handling such input gracefully with hand-written rules -- ( hand-written rules -- ) or more generally , creating systems of hand-written rules that make soft decisions -- extremely difficult , error-prone and time-consuming . 
-44
 Systems based on automatically learning hand-written rules -- ( the rules ) can be made more accurate simply by supplying more input data . 
-45
 However , systems based on hand-written rules can only be made more accurate by increasing the complexity of the rules , which is a much more difficult task . 
-46
 In particular , there is a limit to the complexity of systems based on hand-crafted rules , beyond which NLP ( the systems ) become more and more unmanageable . 
-47
 However , creating more data to input to machine-learning systems simply requires a corresponding increase in the number of man-hours worked , generally without significant increases in the complexity of the annotation process . 
-48
 The subfield of NLP ( NLP ) devoted to learning approaches is known as Natural Language Learning -LRB- NLL -RRB- and NLP ( its ) conference CoNLL and peak body SIGNLL are sponsored by ACL , recognizing also their links with Computational Linguistics and Language Acquisition . 
-49
 When the aims of computational language learning research is to understand more about human language acquisition , or psycholinguistics , NLL overlaps into the related field of Computational Psycholinguistics . 
