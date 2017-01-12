@@ -1,11 +1,14 @@
 Natural
 language
 processing
+
 From
 Wikipedia,
 the
 free
 encyclopedia
+
+
 
 Natural
 language
@@ -31,6 +34,7 @@ and
 human
 (natural)
 languages.
+
 As
 such,
 NLP
@@ -42,6 +46,7 @@ area
 of
 humani-computer
 interaction.
+
 Many
 challenges
 in
@@ -70,7 +75,11 @@ natural
 language
 generation.
 
+
+
 History
+
+
 
 The
 history
@@ -89,6 +98,7 @@ found
 from
 earlier
 periods.
+
 In
 1950,
 Alan
@@ -116,6 +126,8 @@ criterion
 of
 intelligence.
 
+
+
 The
 Georgetown
 experiment
@@ -133,6 +145,7 @@ Russian
 sentences
 into
 English.
+
 The
 authors
 claimed
@@ -149,6 +162,7 @@ be
 a
 solved
 problem.
+
 However,
 real
 progress
@@ -182,6 +196,7 @@ translation
 was
 dramatically
 reduced.
+
 Little
 further
 research
@@ -203,6 +218,8 @@ translation
 systems
 were
 developed.
+
+
 
 Some
 notably
@@ -243,6 +260,7 @@ between
 1964
 to
 1966.
+
 Using
 almost
 no
@@ -259,6 +277,7 @@ a
 startlingly
 human-like
 interaction.
+
 When
 the
 "patient"
@@ -290,6 +309,8 @@ your
 head
 hurts?".
 
+
+
 During
 the
 1970s
@@ -307,6 +328,7 @@ information
 into
 computer-understandable
 data.
+
 Examples
 are
 MARGIE
@@ -332,6 +354,7 @@ Plot
 Units
 (Lehnert
 1981).
+
 During
 this
 time,
@@ -344,6 +367,8 @@ PARRY,
 Racter,
 and
 Jabberwacky.
+
+
 
 Up
 to
@@ -360,6 +385,7 @@ sets
 of
 hand-written
 rules.
+
 Starting
 in
 the
@@ -382,6 +408,7 @@ algorithms
 for
 language
 processing.
+
 This
 was
 due
@@ -429,6 +456,7 @@ approach
 to
 language
 processing.
+
 Some
 of
 the
@@ -451,6 +479,7 @@ to
 existing
 hand-written
 rules.
+
 However,
 Part
 of
@@ -491,6 +520,7 @@ up
 the
 input
 data.
+
 The
 cache
 language
@@ -509,6 +539,7 @@ of
 such
 statistical
 models.
+
 Such
 models
 are
@@ -546,6 +577,8 @@ comprising
 multiple
 subtasks.
 
+
+
 Many
 of
 the
@@ -574,6 +607,7 @@ statistical
 models
 were
 developed.
+
 These
 systems
 were
@@ -622,6 +656,7 @@ corresponding
 systems
 of
 government.
+
 However,
 most
 other
@@ -654,6 +689,7 @@ success
 of
 these
 systems.
+
 As
 a
 result,
@@ -676,6 +712,8 @@ amounts
 of
 data.
 
+
+
 Recent
 research
 has
@@ -687,6 +725,7 @@ and
 semi-supervised
 learning
 algorithms.
+
 Such
 algorithms
 are
@@ -713,6 +752,7 @@ annotated
 and
 non-annotated
 data.
+
 Generally,
 this
 task
@@ -736,6 +776,7 @@ amount
 of
 input
 data.
+
 However,
 there
 is
@@ -768,10 +809,14 @@ the
 inferior
 results.
 
+
+
 NLP
 using
 machine
 learning
+
+
 
 Modern
 NLP
@@ -785,6 +830,7 @@ especially
 statistical
 machine
 learning.
+
 The
 paradigm
 of
@@ -801,6 +847,7 @@ attempts
 at
 language
 processing.
+
 Prior
 implementations
 of
@@ -817,6 +864,7 @@ large
 sets
 of
 rules.
+
 The
 machine-learning
 paradigm
@@ -852,6 +900,7 @@ of
 typical
 real-world
 examples.
+
 A
 corpus
 (plural,
@@ -877,6 +926,8 @@ to
 be
 learned.
 
+
+
 Many
 different
 classes
@@ -890,6 +941,7 @@ applied
 to
 NLP
 tasks.
+
 These
 algorithms
 take
@@ -907,6 +959,7 @@ from
 the
 input
 data.
+
 Some
 of
 the
@@ -933,6 +986,7 @@ that
 were
 then
 common.
+
 Increasingly,
 however,
 research
@@ -955,6 +1009,7 @@ to
 each
 input
 feature.
+
 Such
 models
 have
@@ -994,6 +1049,8 @@ a
 larger
 system.
 
+
+
 Systems
 based
 on
@@ -1005,6 +1062,8 @@ advantages
 over
 hand-produced
 rules:
+
+
 
 The
 learning
@@ -1039,6 +1098,7 @@ effort
 should
 be
 directed.
+
 Automatic
 learning
 procedures
@@ -1081,6 +1141,7 @@ or
 words
 accidentally
 omitted).
+
 Generally,
 handling
 such
@@ -1108,6 +1169,7 @@ difficult,
 error-prone
 and
 time-consuming.
+
 Systems
 based
 on
@@ -1126,6 +1188,7 @@ supplying
 more
 input
 data.
+
 However,
 systems
 based
@@ -1152,6 +1215,7 @@ much
 more
 difficult
 task.
+
 In
 particular,
 there
@@ -1176,6 +1240,7 @@ more
 and
 more
 unmanageable.
+
 However,
 creating
 more
@@ -1207,6 +1272,7 @@ of
 the
 annotation
 process.
+
 The
 subfield
 of
@@ -1244,6 +1310,7 @@ Linguistics
 and
 Language
 Acquisition.
+
 When
 the
 aims
@@ -1271,4 +1338,6 @@ field
 of
 Computational
 Psycholinguistics.
+
+
 
