@@ -9,7 +9,7 @@ However, real progress was much slower, and after the ALPAC report in 1966, whic
 Little further research in 「 a solved problem ( machine translation )」was conducted until the late 1980s, when the first statistical machine translation systems were developed.
 Some notably successful NLP systems developed in the 1960s were SHRDLU, 「 SHRDLU ( a natural language system working in restricted `` blocks worlds '' with restricted vocabularies )」, and ELIZA, a simulation of a Rogerian psychotherapist, written by Joseph Weizenbaum between 1964 to 1966.
 Using almost no information about human thought or emotion, ELIZA sometimes provided a startlingly human-like interaction.
-When the `` patient '' exceeded the very small knowledge base, 「 ELIZA ( ELIZA )」might provide a generic response, for example, responding to `` 「 the `` patient '' ( My )」head hurts '' with `` Why do you say 「 My head ( 「 you ( your )」head )」hurts ? ''
+When the `` patient '' exceeded the very small knowledge base, 「 ELIZA ( ELIZA )」might provide a generic response, for example, responding to `` 「 the `` patient '' ( My )」head hurts '' with `` Why do you say 「 My head ( 「 you ( your )」head )」hurts? ''
 .
 During the 1970s many programmers began to write ` conceptual ontologies ', which structured real-world information into computer-understandable data.
 Examples are MARGIE (Schank, 1975), SAM (Cullingford, 1978), PAM (Wilensky, 「 1978 ( 1978 )」-RRB-, TaleSpin (Meehan, 1976), QUALM (Lehnert, 1977), Politics (Carbonell, 1979), and Plot Units (「 Lehnert ( Lehnert 1981 )」-RRB-.
