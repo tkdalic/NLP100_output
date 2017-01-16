@@ -1,183 +1,73 @@
 
 
-5
-5
-5
-11
-11
-11
-13
 understanding	enabling	computers
-13
-13
-27
-27
-27
 others	involve	generation
 
 
-6
 Turing	published	article
-6
-17
-17
 
-6
 experiment	involved	translation
 
 
-7
-18
-25
 
 
 
-13
-13
 ELIZA	provided	interaction
 
-6
 patient	exceeded	base
-6
-15
-15
 ELIZA	provide	response
-35
-35
-38
-38
 
 
-6
-6
-15
-15
 which	structured	information
 
 
 
 
 
-3
-3
-38
 underpinnings	discouraged	sort
-38
-45
-45
 that	underlies	approach
 
-14
-14
 Some	produced	systems
 
-6
-6
-6
-6
-22
-22
-22
-22
-28
-28
 which	make	decisions
-28
-28
 
-12
 systems	rely	which
-14
 
-6
-6
-6
-6
-15
-15
 that	contains	errors
-15
-15
-
-
-4
 
 
 
 
-4
-
-8
-
-4
-32
 
 
 
-7
+
+
+
+
 implementations	involved	coding
 
-4
-4
 
 
 
-3
 algorithms	take	set
 
-12
 Some	produced	systems
-28
 
-7
-7
-13
 which	make	decisions
-13
 
-3
 models	have	advantage
-3
-3
-9
-9
 they	express	certainty
-9
 
-6
 Systems	have	advantages
-6
-21
-21
-38
-38
 
-5
-5
 Automatic	make	use
-5
-5
-5
-16
-16
-16
-16
-16
 
-21
-21
-21
 that	make	decisions
 
 
-28
 
 
-21
 
 
-9
-9
-22
-22
 
