@@ -3,7 +3,7 @@ Wikipedia
 the free encyclopedia Natural language processing (NLP)
 the free encyclopedia Natural language processing
 NLP
-a field of computer science , artificial intelligence , and linguistics concerned with the interactions between computers and human (natural) languages
+a field of computer science, artificial intelligence, and linguistics concerned with the interactions between computers and human (natural) languages
 a field of computer science
 a field
 computer science
@@ -23,7 +23,7 @@ humani-computer interaction
 Many challenges in NLP
 Many challenges
 NLP
-natural language understanding , that is ,
+natural language understanding, that is,
 natural language understanding
 computers
 meaning
@@ -57,7 +57,7 @@ three or five years
 machine translation
 a solved problem
 real progress
-the ALPAC report in 1966 , which found that ten year long research had failed to fulfill the expectations
+the ALPAC report in 1966, which found that ten year long research had failed to fulfill the expectations
 the ALPAC report
 1966
 ten year
@@ -68,7 +68,7 @@ translation
 Little further research in machine translation
 Little further research
 machine translation
-the late 1980s , when the first statistical machine translation systems were developed
+the late 1980s, when the first statistical machine translation systems were developed
 the late 1980s
 the first statistical machine translation systems
 the first statistical machine
@@ -76,7 +76,7 @@ translation systems
 Some notably successful NLP systems developed in the 1960s
 Some notably successful NLP systems
 the 1960s
-SHRDLU , a natural language system working in restricted `` blocks worlds '' with restricted vocabularies
+SHRDLU, a natural language system working in restricted `` blocks worlds '' with restricted vocabularies
 SHRDLU
 a natural language system working in restricted `` blocks worlds '' with restricted vocabularies
 a natural language system
@@ -84,7 +84,7 @@ restricted `` blocks worlds ''
 restricted
 blocks worlds
 restricted vocabularies
-ELIZA , a simulation of a Rogerian psychotherapist ,
+ELIZA, a simulation of a Rogerian psychotherapist,
 ELIZA
 a simulation of a Rogerian psychotherapist
 a simulation
@@ -99,7 +99,7 @@ a startlingly human-like interaction
 the `` patient ''
 the very small knowledge base
 ELIZA
-a generic response , for example , responding to `` My head hurts
+a generic response, for example, responding to `` My head hurts
 a generic response
 example
 My head
@@ -108,36 +108,36 @@ your head
 .
 the 1970s
 many programmers
-conceptual ontologies ' , which structured real-world information into computer-understandable data
+conceptual ontologies ', which structured real-world information into computer-understandable data
 conceptual ontologies '
 conceptual
 ontologies '
 real-world information
 computer-understandable data
 Examples
-MARGIE (Schank , 1975) , SAM (Cullingford , 1978) , PAM (Wilensky , 1978) , TaleSpin (Meehan , 1976) , QUALM (Lehnert , 1977) , Politics (Carbonell , 1979) , and Plot Units (Lehnert 1981)
-MARGIE (Schank , 1975)
+MARGIE (Schank, 1975), SAM (Cullingford, 1978), PAM (Wilensky, 1978), TaleSpin (Meehan, 1976), QUALM (Lehnert, 1977), Politics (Carbonell, 1979), and Plot Units (Lehnert 1981)
+MARGIE (Schank, 1975)
 MARGIE
 Schank
 1975
-SAM (Cullingford , 1978) , PAM (Wilensky , 1978) , TaleSpin (Meehan , 1976) , QUALM (Lehnert , 1977) , Politics (Carbonell , 1979) , and Plot Units (Lehnert 1981)
-SAM (Cullingford , 1978)
+SAM (Cullingford, 1978), PAM (Wilensky, 1978), TaleSpin (Meehan, 1976), QUALM (Lehnert, 1977), Politics (Carbonell, 1979), and Plot Units (Lehnert 1981)
+SAM (Cullingford, 1978)
 SAM
 Cullingford
 1978
-PAM (Wilensky , 1978)
+PAM (Wilensky, 1978)
 PAM
 Wilensky
 1978
-TaleSpin (Meehan , 1976)
+TaleSpin (Meehan, 1976)
 TaleSpin
 Meehan
 1976
-QUALM (Lehnert , 1977)
+QUALM (Lehnert, 1977)
 QUALM
 Lehnert
 1977
-Politics (Carbonell , 1979)
+Politics (Carbonell, 1979)
 Politics
 Carbonell
 1979
@@ -146,7 +146,7 @@ Plot Units
 Lehnert 1981
 this time
 many chatterbots
-PARRY , Racter , and Jabberwacky
+PARRY, Racter, and Jabberwacky
 the 1980s
 most NLP systems
 complex sets of hand-written rules
@@ -164,12 +164,12 @@ machine learning algorithms
 language processing
 This
 both the steady increase
-computational power resulting from Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar) , whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+computational power resulting from Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar), whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
 computational power
-Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar) , whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+Moore 's Law and the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar), whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
 Moore 's Law
 Moore 's
-the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar) , whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
+the gradual lessening of the dominance of Chomskyan theories of linguistics (e.g. transformational grammar), whose theoretical underpinnings discouraged the sort of corpus linguistics that underlies the machine-learning approach to language processing
 the gradual lessening
 the dominance of Chomskyan theories
 the dominance
@@ -185,11 +185,11 @@ the sort
 corpus linguistics
 the machine-learning approach
 language processing
-Some of the earliest-used machine learning algorithms , such as decision trees ,
+Some of the earliest-used machine learning algorithms, such as decision trees,
 Some
-the earliest-used machine learning algorithms , such as decision trees ,
+the earliest-used machine learning algorithms, such as decision trees,
 the earliest-used machine
-algorithms , such as decision trees ,
+algorithms, such as decision trees,
 algorithms
 decision trees
 systems of hard if-then rules similar to existing hand-written rules
@@ -205,9 +205,9 @@ the use
 Hidden Markov Models
 NLP
 research
-statistical models , which make soft , probabilistic decisions based on attaching real-valued weights to the features making up the input data
+statistical models, which make soft, probabilistic decisions based on attaching real-valued weights to the features making up the input data
 statistical models
-soft , probabilistic decisions
+soft, probabilistic decisions
 real-valued weights
 the features making up the input data
 the features
@@ -219,7 +219,7 @@ examples of such statistical models
 examples
 such statistical models
 Such models
-unfamiliar input , especially input that contains errors (as is very common for real-world data) ,
+unfamiliar input, especially input that contains errors (as is very common for real-world data),
 unfamiliar input
 input that contains errors (as is very common for real-world data)
 input
@@ -233,9 +233,9 @@ multiple subtasks
 Many of the notable early successes
 Many
 the notable early successes
-the field of machine translation , due especially to work at IBM Research , where successively more complicated statistical models were developed
+the field of machine translation, due especially to work at IBM Research, where successively more complicated statistical models were developed
 the field
-machine translation , due especially to work at IBM Research , where successively more complicated statistical models were developed
+machine translation, due especially to work at IBM Research, where successively more complicated statistical models were developed
 machine translation
 IBM Research
 more complicated statistical models
@@ -263,9 +263,9 @@ the corresponding systems
 government
 most other systems
 corpora
-the tasks implemented by these systems , which was (and often continues to be)
+the tasks implemented by these systems, which was (and often continues to be)
 the tasks
-these systems , which was (and often continues to be)
+these systems, which was (and often continues to be)
 these systems
 a major limitation in the success of these systems
 a major limitation
@@ -300,7 +300,7 @@ a given amount of input data
 a given amount
 input data
 there
-an enormous amount of non-annotated data available (including , among other things , the entire content of the World Wide Web) , which can often make up for the inferior results
+an enormous amount of non-annotated data available (including, among other things, the entire content of the World Wide Web), which can often make up for the inferior results
 an enormous amount of non-annotated data available
 an enormous amount
 non-annotated data available
@@ -313,7 +313,7 @@ the inferior results
 NLP using machine learning Modern NLP algorithms
 NLP
 machine learning Modern NLP algorithms
-machine learning , especially statistical machine learning
+machine learning, especially statistical machine learning
 machine learning
 statistical machine learning
 The paradigm of machine learning
@@ -341,14 +341,14 @@ the analysis
 large corpora of typical real-world examples
 large corpora
 typical real-world examples
-A corpus (plural , `` corpora '')
+A corpus (plural, `` corpora '')
 A corpus
-plural , `` corpora ''
+plural, `` corpora ''
 plural
 `` corpora ''
-a set of documents (or sometimes , individual sentences) that have been hand-annotated with the correct values to be learned
+a set of documents (or sometimes, individual sentences) that have been hand-annotated with the correct values to be learned
 a set
-documents (or sometimes , individual sentences) that have been hand-annotated with the correct values to be learned
+documents (or sometimes, individual sentences) that have been hand-annotated with the correct values to be learned
 documents
 individual sentences
 the correct values
@@ -363,7 +363,7 @@ a large set
 `` features '' that are generated from the input data
 `` features ''
 the input data
-Some of the earliest-used algorithms , such as decision trees ,
+Some of the earliest-used algorithms, such as decision trees,
 Some
 the earliest-used algorithms
 decision trees
@@ -375,9 +375,9 @@ the systems of hand-written rules that were then common
 the systems
 hand-written rules
 research
-statistical models , which make soft , probabilistic decisions based on attaching real-valued weights to each input feature
+statistical models, which make soft, probabilistic decisions based on attaching real-valued weights to each input feature
 statistical models
-soft , probabilistic decisions
+soft, probabilistic decisions
 real-valued weights
 each input feature
 Such models
@@ -402,7 +402,7 @@ hand-produced rules
 The learning procedures used during machine learning
 The learning procedures
 machine learning
-the most common cases , whereas when writing rules by hand it is often not obvious at all where the effort should be directed
+the most common cases, whereas when writing rules by hand it is often not obvious at all where the effort should be directed
 the most common cases
 rules
 hand
@@ -428,10 +428,10 @@ words or words
 such input gracefully with hand-written rules -- or more
 such input
 hand-written rules
-systems of hand-written rules that make soft decisions -- extremely difficult , error-prone and time-consuming
+systems of hand-written rules that make soft decisions -- extremely difficult, error-prone and time-consuming
 systems
 hand-written rules
-soft decisions -- extremely difficult , error-prone and time-consuming
+soft decisions -- extremely difficult, error-prone and time-consuming
 soft decisions
 Systems based on automatically learning the rules
 Systems
@@ -440,19 +440,19 @@ more input data
 systems based on hand-written rules
 systems
 hand-written rules
-the complexity of the rules , which is a much more difficult task
+the complexity of the rules, which is a much more difficult task
 the complexity
-the rules , which is a much more difficult task
+the rules, which is a much more difficult task
 the rules
 a much more difficult task
 there
-a limit to the complexity of systems based on hand-crafted rules , beyond which the systems become more and more unmanageable
+a limit to the complexity of systems based on hand-crafted rules, beyond which the systems become more and more unmanageable
 a limit
-the complexity of systems based on hand-crafted rules , beyond which the systems become more and more unmanageable
+the complexity of systems based on hand-crafted rules, beyond which the systems become more and more unmanageable
 the complexity
-systems based on hand-crafted rules , beyond which the systems become more and more unmanageable
+systems based on hand-crafted rules, beyond which the systems become more and more unmanageable
 systems
-hand-crafted rules , beyond which the systems become more and more unmanageable
+hand-crafted rules, beyond which the systems become more and more unmanageable
 hand-crafted rules
 the systems
 more data
@@ -489,7 +489,7 @@ computational language learning research
 computational language
 research
 more
-human language acquisition , or psycholinguistics
+human language acquisition, or psycholinguistics
 human language acquisition
 psycholinguistics
 NLL
